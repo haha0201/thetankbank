@@ -4596,7 +4596,7 @@ var maintainloop = (() => {
         };
     })();
     let spawnCrasher = census => {
-        if (ran.chance(1 -  0.005 * census.streamcrasher / room.maxFood / room.nestFoodAmount)) {
+        if (ran.chance(0.00000000000000000000000000000000000001)) {
             let spot, i = 30;
             do { spot = room.randomType('nest'); i--; if (!i) return 0; } while (dirtyCheck(spot, 100));
             let type = (ran.dice(80)) ? ran.choose([Class.sentryGun, Class.sentrySwarm, Class.sentryTrap, Class.sentrySkim]) : Class.streamcrasher;
