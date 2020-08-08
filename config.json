@@ -21,7 +21,7 @@
     ["norm", "norm", "rock", "bas1", "norm", "norm", "norm", "norm", "rock"],
     ["rock", "norm", "norm", "norm", "norm", "rock", "norm", "rock", "roid"],
     ["rock", "norm", "rock", "roid", "roid", "roid", "norm", "bas2", "rock"],
-    ["norm", "norm", "norm", "roid", "roid", "roid", "norm", "norm", "norm"],
+    ["norm", "norm", "norm", "roid", "nest", "roid", "norm", "norm", "norm"],
     ["rock", "bas3", "norm", "roid", "roid", "roid", "rock", "norm", "rock"],
     ["roid", "rock", "norm", "rock", "norm", "norm", "norm", "norm", "rock"],
     ["rock", "norm", "norm", "norm", "norm", "bas4", "rock", "norm", "norm"],
